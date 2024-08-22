@@ -6,7 +6,7 @@
 	},
 	"status": "draft",
 	"translations": ["us","es"],
-	"technologies": ["linux", "cybersecurity"],
+	"technologies": ["cybersecurity","ciberseguridad","linux"],
 	"difficulty": "intermediate",
 	"duration" : 3,
 	"solution": "https://github.com/breatheco-de/scheduling-automatic-wordpress-backup/blob/master/solution.md",
